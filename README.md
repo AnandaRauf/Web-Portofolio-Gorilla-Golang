@@ -5,7 +5,7 @@ Web Portofolio dikembangkan menggunakan web framework Gorilla Mux Golang
 
 1. (Download Golang)[https://go.dev/doc/install)
 2. Install Gorilla Mux web framework di CMD: go get github.com/gorilla/mux
-3. Pergi ke folder proyek,ketik: go run main.go atau belajarweb_golang.exe
+3. Pergi ke folder proyek,ketik di CMD: go run main.go atau belajarweb_golang.exe
 4. Selesai,web akan running melalui link url: http://localhost:8080/
 
 # Kontak saya
