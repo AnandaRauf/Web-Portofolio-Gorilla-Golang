@@ -1,6 +1,8 @@
 # Web-Portofolio-Gorilla-Golang
 Web Portofolio dikembangkan menggunakan web framework Gorilla Mux Golang
 
+# Tampilan Website
+1. ![Tampilan website](https://github.com/AnandaRauf/Web-Portofolio-Gorilla-Golang/blob/main/SS%20tampilan%20web/Screenshot%20(261).png?raw=true)
 # Cara Kontribusi dan jalankan web server
 
 1. (Download Golang)[https://go.dev/doc/install)
